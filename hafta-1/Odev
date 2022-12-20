@@ -1,0 +1,11 @@
+ÖDEV : 1
+
+Bir ATM uygulaması. Başlangıç için bir bakiye belirlenecek.
+Program para çekme, para yatırma, bakiye öğrenme ve çıkış gibi seçeneklere sahip olacak.
+Kişinin seçimi doğrultusunda(scanner kullanılacak dışarıdan input almalıyız) seçilen işlem yapılacak.
+Para çekme işleminde bakiye 0'ın altına düşemez bunun kontrolü de yapılacak.
+
+ÖDEV : 2
+
+0 ile 500 aralığında olan sayılardan 50 ile 100 arasında bir sayı bulunana kadar rastgele sayılar seçilir.
+50 ile 100 arasındaki sayının kaçıncı seçimde bulunduğunu bulan program.
